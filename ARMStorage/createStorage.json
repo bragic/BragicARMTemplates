@@ -4,7 +4,7 @@
     "parameters": {
         "storageAccounts_name": {
             "defaultValue": "storage1wendito",
-            "type": "String",
+            "type": "String"
         },
         "account_location": {
             "defaultValue": "southcentralus",
