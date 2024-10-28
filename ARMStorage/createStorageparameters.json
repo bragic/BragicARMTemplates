@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccounts_name": {
-            "value": "storage3wendito"
+            "value": "storage4wendito"
         },
         "account_location": {
             "value": "eastus"
